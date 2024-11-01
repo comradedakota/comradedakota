@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=comradedakota&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=comradedakota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <br />
+  <img height="239" src="https://github.com/comradedakota/comradedakota/raw/refs/heads/main/hack-time.webp">
 </div>
-
-###
-
-<img align="center" height="239" src="https://github.com/comradedakota/comradedakota/raw/refs/heads/main/hack-time.webp">
 
 ###
 
